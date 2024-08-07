@@ -1,0 +1,96 @@
+body {
+    background-color: #4C3BCF;
+    font-family: Tahoma, sans-serif;
+}
+
+.details {
+    margin-bottom: 2rem;
+}
+
+.bruh {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.snippet {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+}
+
+.snippet-text {
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    background-color: rgb(235, 235, 231);
+    border: 3px solid #3DC2EC;
+    padding: 25px;
+}
+
+div .sneakers {
+    width: 400px;
+    background-color: #4B70F5;
+    padding: 75px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+p {
+    font-weight: bold;
+    color: grey;
+}
+
+.button {
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    background-color: #FF7F3E;
+    height: 2rem;
+    border-radius: 5px;
+    color: whitesmoke;
+    width: 200px;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    font-size: large;
+    border: 1px transparent;
+}
+
+.checkbox {
+    margin-left: 10px;
+}
+
+.save {
+    font-size: 10px;
+    color: grey;
+    margin-left: 5px;
+    font-weight: normal;
+    display: inline-block;
+}
+
+div > input {
+    margin-bottom: 10px;
+}
+
+div > p {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.mastercard {
+    margin-bottom: -14px;
+}
+
+.visa {
+    margin-bottom: -15px;
+}
+
+
+.card-number {
+    margin-bottom: 0px;
+}
